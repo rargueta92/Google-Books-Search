@@ -1,10 +1,10 @@
 
 import React, { Component } from "react";
 import API from "../Utilities/API";
-import { Container } from "../components/Grid";
-import Jumbotron from "../components/Jumbotron";
-import SearchDiv from "../components/SearchDiv";
-import SearchResults from "../components/SearchResults";
+import { Container } from "../Components/Grid";
+import Jumbotron from "../Components/Jumbotron";
+// import SearchDiv from "../Components/";
+// import SearchResults from "../Components/";
 
 //https://www.googleapis.com/books/v1/volumes?q=Potter
 //https://developers.google.com/books/docs/v1/getting_started
