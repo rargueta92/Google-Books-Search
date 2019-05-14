@@ -22,7 +22,7 @@ function SavedCard(props) {
         </p>
       </div>
       <div className="SavedOptions col-1">
-        <a href={props.link} target="_blank">
+        <a href={props.link} target="blank">
           <button className="ViewMore SavedOption">
             View More
           </button>

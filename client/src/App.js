@@ -2,10 +2,10 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import SearchBooks from "./Pages/SearchBooks";
-import SaveBooks from "./pages/SaveBooks";
+import SaveBooks from "./Components/SavedBooks";
 import NoMatch from "./Pages/NoMatch";
 import Nav from "./Components/Nav/index";
-import Footer from "./components/Footer";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
